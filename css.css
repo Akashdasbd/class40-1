@@ -1,0 +1,60 @@
+img{
+	max-width: 100%;
+}
+.menu{
+	background:#ffffff !important ;
+}
+
+.menu-logo h2 {
+	float: right;
+	font-size: 26px;
+	font-weight: bold;
+	position: relative;
+	top: 7px;
+	left: 14px;
+}
+.menu-logo samp {
+	color: #76a3fe;
+	font-size: 32px;
+}
+.baner-part{
+    background:#f9f9ff ;
+    
+}
+.number{
+    background:#8490ff ;
+}
+.my-circle {
+	width: 80px;
+	height: 80px;
+	margin: auto;
+	line-height: 61px;
+	text-align: center;
+	font-weight: bold;
+}
+.potfolio{
+    background:#f9f9ff ;
+    
+}
+.pot-2{
+    margin-top: 122px;
+}
+.pot-2-img {
+    text-align: left;
+
+}
+.my-pot-2-img {
+	width: 132px;
+	margin-top: -75px;
+}
+.my-form{
+	background:#f9f9ff ;
+}
+footer{
+	background: #04091e;
+	color: #ffffff;
+	padding: 10px;
+	text-align: center;
+	margin-top: 20px;
+}
+

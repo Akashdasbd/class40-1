@@ -1,0 +1,46 @@
+@media(max-width:992px){
+    .container, .container-md, .container-sm {
+        max-width: 100%;
+        padding: 0 40px;
+    }
+    .baner-part-text {
+        padding-top: 0 !important;
+    }
+    .my-par-des p {
+        font-size: 14px;
+    }
+    .my-par-des {
+        padding: 31px !important;
+    }
+  
+
+}
+@media(max-width:768px){
+  
+    .baner-img {
+        margin-top: 30px;
+    }
+    .about.p-5 {
+        padding: 0 !important;
+        margin-top: 40px;
+        border-top: 1px solid violet;
+        padding-top: 30px !important;
+    }
+    .my-potgolio-d {
+        margin-bottom: 30px;
+    }
+    .pot-2-ser {
+        margin-bottom: 108px;
+    }
+    .my-par-des {
+        padding: 31px !important;
+    }
+    .my-par-des p {
+        font-size: 14px;
+    }
+}
+@media(max-width:420px){
+    footer p {
+        font-size: 11px;
+    }
+}
